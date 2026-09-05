@@ -1,2 +1,4 @@
 # Tischtennisprogramm-Version-2-
-Zweite Version des Tischtennis Zählers. Download für private zwecke erlaubt.
+Zweite Version des Tischtennis Zählers. Synchronisiert automatisch über github.
+
+Link: https://emil-create24.github.io/Tischtennisprogramm-Version-2-/
